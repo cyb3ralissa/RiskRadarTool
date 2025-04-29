@@ -1,0 +1,4 @@
+Vendor Name,Data Access,Compliance Certifications,Encryption Used,Third-party Storage
+VendorA,Customer PII,SOC 2;ISO 27001,AES-256,Yes
+VendorB,Internal Only,None,None,No
+VendorC,Financial Data,SOC 1,AES-128,Yes
